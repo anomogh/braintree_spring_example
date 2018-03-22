@@ -26,7 +26,7 @@ An example Braintree integration for Spring (Java).
 
 You can deploy this app directly to Heroku to see the app live. Skip the setup instructions above and click the button below. This will walk you through getting this app up and running on Heroku in minutes.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/braintree/braintree_spring_example&env[BT_ENVIRONMENT]=sandbox)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/anomogh/braintree_spring_example&env[BT_ENVIRONMENT]=sandbox)
 
 ## Running tests
 
@@ -42,7 +42,7 @@ Sandbox transactions must be made with [sample credit card numbers](https://deve
 
 ## Help
 
- * Found a bug? Have a suggestion for improvement? Want to tell us we're awesome? [Submit an issue](https://github.com/braintree/braintree_spring_example/issues)
+ * Found a bug? Have a suggestion for improvement? Want to tell us we're awesome? [Submit an issue](https://github.com/anomogh/braintree_spring_example/issues)
  * Trouble with your integration? Contact [Braintree Support](https://support.braintreepayments.com/) / support@braintreepayments.com
  * Want to contribute? [Submit a pull request](https://help.github.com/articles/creating-a-pull-request)
 
